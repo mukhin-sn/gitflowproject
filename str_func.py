@@ -7,3 +7,5 @@ def str_fun_2(value_str):
     """Возвращает value_str первая буква каждого слова в верхнем ригистре"""
     return value_str.title()
 
+def str_fun_3():
+    return None
