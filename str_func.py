@@ -9,3 +9,4 @@ def str_fun_2(value_str):
 
 def str_fun_3():
     return None
+
